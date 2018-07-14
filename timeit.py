@@ -5,7 +5,7 @@ print("welcome to game!")
 person = input('Enter your name: ')
 print('Hello', person)
 
-# edfine function
+# define function
 
 def manualgame():
     
